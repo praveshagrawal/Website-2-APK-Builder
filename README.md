@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 1.0.1 Beta**
+# **Website 2 APK Builder 1.1 Pro**
 
 >Convert your Website to a working Android App.
 
@@ -11,22 +11,26 @@
  - Build Android Apps easily from your Web Content
  - Create Apps in seconds for your Live Website
  - Custom Splash Screen
+ - Custom Package Name
+ - Custom Android Permissions
+ - Google Play Ready Android App
+ - Custom App Version
+ - Custom Developer Tagline
  - Custom icon for your App
- - Customised App Name
  - Generates Ad-Free Android App
  - User Friendly
  - Best App Results for Responsive Sites
  - No Back-Links
 
-## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_v1.0.1_Beta/Website.2.APK.Builder.1.0.1.Beta.exe)**
+## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_1.1_Pro/Website.2.APK.Builder.1.1.Pro.exe)**
 
 
 
-![screenshot1](https://cloud.githubusercontent.com/assets/12152322/7748234/56726970-ffe0-11e4-8ac0-acc555cd4774.png)
+![screenshot1](https://cloud.githubusercontent.com/assets/12152322/9423868/248a9b0e-48f5-11e5-979f-88b74de8e580.png)
 
 **For Updates & More Releases:**
 
 Follow Me [@praveshagrawal](https://github.com/praveshagrawal/)
 (http://www.praveshagrawal.com/)
 
-## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_v1.0.1_Beta/Website.2.APK.Builder.1.0.1.Beta.exe)**
+## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_1.1_Pro/Website.2.APK.Builder.1.1.Pro.exe)**
