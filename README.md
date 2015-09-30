@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 1.1 Pro**
+# **Website 2 APK Builder 1.2 Pro**
 
 >Convert your Website to a working Android App.
 
