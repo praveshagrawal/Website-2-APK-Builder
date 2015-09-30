@@ -10,17 +10,24 @@
  - Convert HTML to APK's(Android Apps)
  - Build Android Apps easily from your Web Content
  - Create Apps in seconds for your Live Website
- - Custom Splash Screen
+ - Custom icon for your App
+ - Custom Splash screen
  - Custom Package Name
  - Custom Android Permissions
  - Google Play Ready Android App
- - Custom App Version
- - Custom Developer Tagline
- - Custom icon for your App
- - Generates Ad-Free Android App
+ - About Dialog
+ - Custom App version
+ - Customised App Name
+ - Zoom Buttons Option
+ - Custom developer Tagline
+ - Exit Button
+ - Completely Ad-Free
+ - No Back-Links
  - User Friendly
  - Best App Results for Responsive Sites
- - No Back-Links
+ - Custom Progress Wheel
+ - Bug Fixes**
+ - Camera Upload Supportort
 
 ## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_1.1_Pro/Website.2.APK.Builder.1.1.Pro.exe)**
 
