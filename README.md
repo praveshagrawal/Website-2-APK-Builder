@@ -29,15 +29,15 @@
  - Bug Fixes**
  - Camera Upload Supportort
 
-## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_1.1_Pro/Website.2.APK.Builder.1.1.Pro.exe)**
+## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_1.2_Pro/Website.2.APK.Builder.1.2.Pro.exe)**
 
 
 
-![screenshot1](https://cloud.githubusercontent.com/assets/12152322/9423868/248a9b0e-48f5-11e5-979f-88b74de8e580.png)
+![screenshot1](http://a.fsdn.com/con/app/proj/website2apk/screenshots/Screenshot1_1.2.png)
 
 **For Updates & More Releases:**
 
 Follow Me [@praveshagrawal](https://github.com/praveshagrawal/)
 (http://www.praveshagrawal.com/)
 
-## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_1.1_Pro/Website.2.APK.Builder.1.1.Pro.exe)**
+## **[Download Now!](https://github.com/praveshagrawal/Website-2-APK-Builder/releases/download/Website_2_APK_Builder_1.2_Pro/Website.2.APK.Builder.1.2.Pro.exe)**
