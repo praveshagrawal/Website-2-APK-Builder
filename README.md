@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 2.2 Pro**
+# **Website 2 APK Builder 2.3 Pro**
 
 >Convert your Website or HTML5 app to a working Android App.
 
@@ -8,9 +8,12 @@
 
  **Highlights:**
  - jQuery, Ionic & jQueryMobile support for Offline HTML Apps.
- - App Share Button
+ - App Share Button (Also avaibale with Javascript)
  - FullScreen Mode
- - Vibration Support
+ - Display Toast via JavaScript
+ - Gesture Zoom Support
+ - JavaScript APIs to perform In-App Activities
+ - HTML5 Vibration API Support
  - Skype, Whatsapp, SMS, Intent links Support
  - Externl Links Open Outside (Optional Supprted)
  - Confirm on Exit (Optional to Enable)
@@ -52,11 +55,11 @@
 
 
 
-![screenshot1](https://a.fsdn.com/con/app/proj/website2apk/screenshots/Screenshot_v2.2_1.png)
+![screenshot1](https://a.fsdn.com/con/app/proj/website2apk/screenshots/Website2APK_v2.3_1.png)
 
 **For Updates & More Releases:**
 
-Follow Me [@praveshagrawal](https://github.com/praveshagrawal/)
-(http://www.praveshagrawal.com/)
+Follow Us [@GoyalSoftech](https://github.com/goyalsoftech/)
+(http://www.goyalsoftech.com/)
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
