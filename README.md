@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 2.3 Pro**
+# **Website 2 APK Builder 3.0 Pro**
 
 >Convert your Website or HTML5 app to a working Android App.
 
@@ -7,6 +7,10 @@
 >Build app from any web server site or from local directory.
 
  **Highlights:**
+ - Push Notifications (New)
+ - Persistent Cookies (Fixed)
+ - App Orientation (Fixed)
+ - New JavaScript APIs 
  - jQuery, Ionic & jQueryMobile support for Offline HTML Apps.
  - App Share Button (Also avaibale with Javascript)
  - FullScreen Mode
@@ -55,7 +59,7 @@
 
 
 
-![screenshot1](https://a.fsdn.com/con/app/proj/website2apk/screenshots/Website2APK_v2.3_1.png)
+![screenshot1](https://a.fsdn.com/con/app/proj/website2apk/screenshots/Website2APK_v3.0_1.png)
 
 **For Updates & More Releases:**
 
