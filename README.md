@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 3.1 Pro**
+# **Website 2 APK Builder 3.2 Pro**
 
 > Convert your Website or HTML5 app to a working Android App.
 > 
@@ -7,6 +7,10 @@
 > Build app from any web server site or from local directory.
 
  **Highlights:**
+- GDPR Compliant AdMob Functions
+- Allow or Prevent Screenshot
+- Push Notifications API Access
+- Updated API Level 27
 - Adjust Screen Layout while Typing
 - Custom Keystore
 - Download via Download Manager
@@ -58,7 +62,7 @@
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
 
-![screenshot1](https://websitetoapk.com/images/screenshots/v3.1_1.png)
+![screenshot1](https://websitetoapk.com/images/screenshots/v3.2_1.png)
 
 **For Updates & More Releases:**
 
