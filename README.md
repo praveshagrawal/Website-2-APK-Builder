@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 3.2 Pro**
+# **Website 2 APK Builder 3.3 Pro**
 
 > Convert your Website or HTML5 app to a working Android App.
 > 
@@ -7,6 +7,12 @@
 > Build app from any web server site or from local directory.
 
  **Highlights:**
+- Bug Fixes**
+- Keep Screen On while playing full screen videos
+- Hide WebView User Agent (Allows login with Google and Many more).
+- Added option to select if you want to overlap new notification to existing or show as new.
+- Added "isBroadcastEnabled" JS API Function
+- Audio recording now working.  
 - GDPR Compliant AdMob Functions
 - Allow or Prevent Screenshot
 - Push Notifications API Access
@@ -58,11 +64,10 @@
 - No Back-Links
 - User Friendly
 - Best App Results for Responsive Sites
-- Bug Fixes**
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
 
-![screenshot1](https://websitetoapk.com/images/screenshots/v3.2_1.png)
+![screenshot1](https://websitetoapk.com/images/screenshots/v3.3_1.png)
 
 **For Updates & More Releases:**
 
