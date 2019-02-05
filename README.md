@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 3.3 Pro**
+# **Website 2 APK Builder 3.3.1 Pro**
 
 > Convert your Website or HTML5 app to a working Android App.
 > 
@@ -8,6 +8,10 @@
 
  **Highlights:**
 - Bug Fixes**
+- Option to remove JavaScript APIs (In response to JavaScript Interface Injection Vulnerability)
+- Desktop Mode
+- HTTPs Only Mode (In response to JavaScript Interface Injection Vulnerability & Better Security)
+- Debug Mode can now display SSL related errors on your screen)
 - Keep Screen On while playing full screen videos
 - Hide WebView User Agent (Allows login with Google and Many more).
 - Added option to select if you want to overlap new notification to existing or show as new.
@@ -67,7 +71,7 @@
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
 
-![screenshot1](https://websitetoapk.com/images/screenshots/v3.3_1.png)
+![screenshot1](https://websitetoapk.com/images/screenshots/v3.3.1_1.png)
 
 **For Updates & More Releases:**
 
