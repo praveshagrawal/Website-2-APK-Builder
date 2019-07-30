@@ -1,10 +1,23 @@
-# **Website 2 APK Builder 3.3.1 Pro**
+# **Website 2 APK Builder 3.4 Pro**
 
 > Convert your Website or HTML5 app to a working Android App.
 > 
 > Supports html5, html, php, htm, js, css.
 > 
 > Build app from any web server site or from local directory.
+
+**What's new in v3.4**
+- Latest API Level 28
+- Better handling for SSL related errors
+- Updated Firebase and AdMob library versions
+- JS API to prevent device from sleeping
+- Fix Audio Play Bug
+- Overview mode enabled along with Desktop mode.
+- Push notifications automatically expandable when description is longer
+- Cookies now work with offline files too
+- JS API to show/hide AdMob banner on selected pages
+- .Webapp project now saves permissions, push config and progress wheel also.
+- Bug Fixes**
 
  **Highlights:**
 - Bug Fixes**
@@ -71,7 +84,7 @@
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
 
-![screenshot1](https://websitetoapk.com/images/screenshots/v3.3.1_1.png)
+![screenshot1](https://websitetoapk.com/images/screenshots/v3.4_1.png)
 
 **For Updates & More Releases:**
 
