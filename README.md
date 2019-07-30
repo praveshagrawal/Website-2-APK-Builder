@@ -10,7 +10,6 @@
 - Latest API Level 28
 - Better handling for SSL related errors
 - Updated Firebase and AdMob library versions
-- JS API to prevent device from sleeping
 - Fix Audio Play Bug
 - Overview mode enabled along with Desktop mode.
 - Push notifications automatically expandable when description is longer
