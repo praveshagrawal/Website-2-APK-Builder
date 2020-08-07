@@ -7,7 +7,7 @@
 > Build app from any web server site or from local directory.
 
 **What's new in v4.1**
-API Level 29
+- API Level 29
 - Bug Fixes**
 
 **Highlights:**
