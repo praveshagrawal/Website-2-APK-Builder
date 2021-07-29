@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 4.2 Pro**
+# **Website 2 APK Builder 5.0 Pro**
 
 > Convert your Website or HTML5 app to a working Android App.
 > 
@@ -6,16 +6,17 @@
 > 
 > Build app from any web server site or from local directory.
 
-**What's new in v4.2**
-- Multiple Image Upload Support
-- JS API to get device API Level
-- 7 More color options
-- Unicode character support for Nav Drawer
-- Deep-linking
-- Java 15 support added
+**What's new in v5.0**
+- Latest API Level 30 Support
+- Android App Bundle (.aab) Support
 - Bug Fixes**
 
  **Highlights:**
+- Multiple Image Upload Support
+- JS API to get device API Level
+- Unicode character support for Nav Drawer
+- Deep-linking
+- Java 15 support added
 - Material Design
 - Change Material Color Scheme
 - Pull-to-Refresh
@@ -89,7 +90,7 @@
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
 
-![screenshot1](https://websitetoapk.com/images/screenshots/v4.2_1.png)
+![screenshot1](https://websitetoapk.com/images/screenshots/v5.0_1.png)
 
 **For Updates & More Releases:**
 
