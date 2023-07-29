@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 5.1 Pro**
+# **Website 2 APK Builder 5.2 Pro**
 
 > Convert your Website or HTML5 app to a working Android App.
 > 
@@ -6,9 +6,9 @@
 > 
 > Build app from any web server site or from local directory.
 
-**What's new in v5.1**
-- No Java Dependency (JRE & JDK, both not required)
-- Latest API Level 31 Support
+**What's new in v5.2**
+- Android TV Support
+- Support for 100 MB+ APKs
 - Bug Fixes**
 
  **Highlights:**
@@ -90,7 +90,7 @@
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
 
-![screenshot1](https://websitetoapk.com/images/screenshots/v5.1_1.png)
+![screenshot1](http://websitetoapk.com/images/screenshots/v5.2_1.png)
 
 **For Updates & More Releases:**
 
