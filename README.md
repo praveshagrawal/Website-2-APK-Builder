@@ -9,6 +9,8 @@
 **What's new in v5.2**
 - Android TV Support
 - Support for 100 MB+ APKs
+- Firebase In-App Messaging
+- Blob Download Issue Fixed
 - Bug Fixes**
 
  **Highlights:**
