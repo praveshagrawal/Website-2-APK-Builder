@@ -8,7 +8,7 @@
 
 **What's new in v5.3**
 - Push Notification Permission
-- Added Android 13 Special Permission
+- Added Android 13 Extra Permissions
 - Bug Fixes**
 
  **Highlights:**
