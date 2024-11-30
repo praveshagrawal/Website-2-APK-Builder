@@ -1,4 +1,4 @@
-# **Website 2 APK Builder 5.3 Pro**
+# **Website 2 APK Builder 5.4 Pro**
 
 > Convert your Website or HTML5 app to a native Android App.
 > 
@@ -6,14 +6,12 @@
 > 
 > Build app from any live website or from local html folder.
 
-**What's new in v5.3**
-- Push Notification Permission
-- Added Android 13 Extra Permissions
+**What's new in v5.4**
+- API Level 34
 - Bug Fixes**
 
  **Highlights:**
 - Android App Bundle (.aab) Support
-- Android TV Support
 - Support for 100 MB+ APKs
 - Firebase In-App Messaging
 - Blob Download Support
@@ -94,7 +92,7 @@
 
 ## **[Download Now!](https://websitetoapk.com/download.html)**
 
-![screenshot1](http://websitetoapk.com/images/screenshots/v5.3_1.png)
+![screenshot1](http://websitetoapk.com/images/screenshots/v5.4_1_min.png)
 
 **For Updates & More Releases:**
 
