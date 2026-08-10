@@ -1,4 +1,4 @@
-# **Website 2 APK Builder Pro — v6.0**
+# **Website 2 APK Builder Pro — v6.1**
 Convert any Website or HTML5 app into a native Android App.
 
 Website 2 APK Builder Pro lets you instantly turn any website, HTML5 project, or local HTML folder into a fully functional Android application.  
@@ -6,8 +6,8 @@ Supports **HTML, HTML5, PHP, HTM, JS, CSS**.
 
 ---
 
-## **🚀 What's New in v6.0**
-- **API Level 35**
+## **🚀 What's New in v6.1**
+- **API Level 36**
 - **Set Light/Dark Status Bar Font Color**
 - **Block Pop-ups**
 - General **Bug Fixes**
