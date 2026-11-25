@@ -6,7 +6,7 @@ Supports **HTML, HTML5, PHP, HTM, JS, CSS**.
 
 ---
 
-## **🚀 What's New in v6.1**
+## **🚀 What's New in v6.2**
 - **API Level 36**
 - **Set Light/Dark Status Bar Font Color**
 - **Block Pop-ups**
